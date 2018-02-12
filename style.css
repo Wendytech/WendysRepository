@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+p{
+  color: black;
+}
+body {
+  color: black;
+  background-color:moccasin
+}
+p {
+  color: blue;
+  font-size: 24;
+  font-family: 'Inconsolata','Arial','Verdana' sans-serif;
+}
+a:hover {
+
+}
+a:visited
+
+a:active
+p{
+  color: red;
+}
+.className {
+
+}
+#idName {
+
+}
