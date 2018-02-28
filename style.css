@@ -8,21 +8,10 @@ body {
 }
 p {
   color: blue;
-  font-size: 24;
-  font-family: 'Inconsolata','Arial','Verdana' sans-serif;
+  font-size: 24px;
+  font-family: sans-serif;
 }
-a:hover {
-
-}
-a:visited
-
-a:active
 p{
-  color: red;
-}
-.className {
-
-}
-#idName {
-
+  color: black;
+  font-size: 16px;
 }
