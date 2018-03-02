@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
-p{
-  color: black;
-}
 body {
   color: black;
-  background-color:moccasin
+  font-family: sans-serif;
+  background-color: moccasin;
+  font-size: 16px;
 }
 p {
-  color: blue;
-  font-size: 24px;
-  font-family: sans-serif;
+  font-size: 16px;
+  font-family: 'Arial';
 }
 p{
   color: black;
   font-size: 16px;
+  font-family: 'Arial';
 }
